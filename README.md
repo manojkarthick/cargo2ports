@@ -51,7 +51,7 @@ Follow these steps to install `pipx` from MacPorts and install `cargo2ports` glo
 
 ```
 sudo port install pipx
-pipx git+https://github.com/manojkarthick/cargo2ports.git
+pipx install git+https://github.com/manojkarthick/cargo2ports.git
 ```
 
 Note: Update your `$PATH` to add the pipx bin directory or update the `PIPX_BIN_DIR` environment variable.
