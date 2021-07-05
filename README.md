@@ -47,6 +47,12 @@ cargo.crates \
 
 ### Installation
 
+You can install `cargo2ports` by running the following command in a virtualenv:
+
+```
+python setup.py install
+```
+
 Follow these steps to install `pipx` from MacPorts and install `cargo2ports` globally
 
 ```
